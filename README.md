@@ -11,4 +11,4 @@ If you press PLAY waveform should respond to it.
 Add a sencond output to Pure Data on Linux, or select the right output on dropdown menu on PC or MAC.
 Setup your gear to accept MIDI time from EXT midi.
 Click the EXT toggle box to send MIDI time to your external gear.
-* BMP on the control will sync your external gear but not to Waveform. Youy should input the same BPM on waveform and PD MIDI controller before hitting play. 
+* BMP changes on the control will sync your external gear but not Waveform. You should input the same BPM on waveform and PD MIDI controller before hitting play.
