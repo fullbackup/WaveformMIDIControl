@@ -1,0 +1,2 @@
+#N canvas 77 151 339 71 12;
+#X obj 4 4 MIDIControls;
